@@ -1,10 +1,4 @@
-Uygulama eğlence amaçlı yazılmıştır.
-Netframework 6 kullanıldı.
-winForm uygulaması.
-Sorular ve öneriler için yazın.
 
-KODLAR
-{
 namespace Garip_Uygulama_Yapcam
 {
     public partial class Form1 : Form
