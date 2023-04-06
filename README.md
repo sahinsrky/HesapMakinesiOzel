@@ -4,7 +4,8 @@ winForm uygulaması.
 Sorular ve öneriler için yazın.
 
 KODLAR
-﻿namespace Garip_Uygulama_Yapcam
+{
+namespace Garip_Uygulama_Yapcam
 {
     public partial class Form1 : Form
     {
@@ -273,4 +274,5 @@ KODLAR
 
         }
     }
+}
 }
