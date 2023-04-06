@@ -1,8 +1,5 @@
 
-namespace Garip_Uygulama_Yapcam
-{
-    public partial class Form1 : Form
-    {
+
         double ilkrakam;
         string islem;
         double sonrakam;
